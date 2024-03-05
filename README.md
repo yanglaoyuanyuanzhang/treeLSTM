@@ -52,3 +52,7 @@ Convert the raw tweets into SKP feature by tf-SKP in following repo [https://git
 I implemented two models: Child Conv Tree LSTM and Child Sum Tree LSTM, performances will be print on the screen.
 
 *It will be hard to run the treeLSTM parallelly in GPU, so I keep batch size equal to 1 and use CPU to run this model. Due to the size of training sample, it won't cost a lot to train the model (less than one hour for 30 epochs).*
+
+
+## CopyRight
+this is a fork
